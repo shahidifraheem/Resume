@@ -186,7 +186,7 @@ li::marker {
 
 .info {
     width: 30%;
-    background-color: #1c3244;
+    background-color: var(--main);
     color: #fff
 }
 
