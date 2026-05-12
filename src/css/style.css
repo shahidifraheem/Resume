@@ -340,36 +340,44 @@ li::marker {
     background-color: var(--main)
 }
 
-.html .progress {
-    width: 100%
+.p-10 .progress {
+    width: 10%
 }
 
-.css .progress {
-    width: 100%
+.p-20 .progress {
+    width: 20%
 }
 
-.javascript .progress {
-    width: 95%
+.p-30 .progress {
+    width: 30%
 }
 
-.vuejs .progress {
+.p-40 .progress {
+    width: 40%
+}
+
+.p-50 .progress {
+    width: 50%
+}
+
+.p-60 .progress {
+    width: 60%
+}
+
+.p-70 .progress {
+    width: 70%
+}
+
+.p-80 .progress {
+    width: 80%
+}
+
+.p-90 .progress {
     width: 90%
 }
 
-.php .progress {
-    width: 90%
-}
-
-.laravel .progress {
-    width: 85%
-}
-
-.sql .progress {
-    width: 95%
-}
-
-.wp .progress {
-    width: 95%
+.p-100 .progress {
+    width: 100%
 }
 
 .interest-title {
